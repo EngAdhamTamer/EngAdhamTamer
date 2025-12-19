@@ -21,7 +21,7 @@ A complete edge AI system for real‑time fire detection optimized for low laten
 - Designed for deployment on NVIDIA Jetson devices
 
 **Tech Stack:** YOLOv8, TensorRT, ROS Noetic, OpenCV, Python  
-🔗 https://github.com/EngAdhamTamer/Fire-Edge
+🔗 Repository: https://github.com/EngAdhamTamer/Fire-Edge
 
 ---
 
@@ -34,7 +34,7 @@ A computer vision system for detecting and segmenting **ancient Egyptian hierogl
 - Research‑oriented dataset and pipeline
 
 **Tech Stack:** PyTorch, OpenCV, Deep Learning  
-🔗 https://github.com/EngAdhamTamer/hieroglyph-detection
+🔗 Repository: https://github.com/EngAdhamTamer/hieroglyph-detection
 
 ---
 
@@ -47,7 +47,7 @@ A reinforcement learning project using **Q‑Learning** to optimize smart home e
 - Policy convergence analysis
 
 **Tech Stack:** Python, Reinforcement Learning  
-🔗 https://github.com/EngAdhamTamer/smart-home-energy-optimization
+🔗 Repository: https://github.com/EngAdhamTamer/smart-home-energy-optimization
 
 ---
 
@@ -60,15 +60,22 @@ A machine learning pipeline for classifying SMS messages as spam or ham.
 - NLP fundamentals applied to real data
 
 **Tech Stack:** Python, NLP, Scikit‑Learn  
-🔗 https://github.com/EngAdhamTamer/SMS-Spam-Detection
+🔗 Repository: https://github.com/EngAdhamTamer/SMS-Spam-Detection
 
 ---
 
 ### 🌐 Abdeen Barber Shop
 A real‑world web application built as a paid freelance project, focusing on booking flow and user experience.
 
+**Highlights**
+- Delivered as a paid client project
+- Built to solve real booking workflow needs
+- Deployed and used in production
+- Designed for non-technical end users
+
 **Tech Stack:** JavaScript, React, Next.js  
-🔗 https://github.com/EngAdhamTamer/abdeen-barber-shop
+🔗 Live Site: https://abdeen-barber-shop.vercel.app/
+🔗 Repository: https://github.com/EngAdhamTamer/abdeen-barber-shop
 
 ---
 
