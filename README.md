@@ -90,13 +90,6 @@ A real‑world web application built as a paid freelance project, focusing on bo
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EngAdhamTamer&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EngAdhamTamer&layout=compact&theme=tokyonight)
-
----
-
 ## 🤝 Let’s Connect
 
 I’m open to **AI engineering, machine learning, computer vision, and edge AI opportunities** — freelance, research, or full‑time.
