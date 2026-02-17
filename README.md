@@ -12,7 +12,7 @@ I build production‑ready AI systems that solve real‑world problems — from 
 
 ## 🧠 Featured Projects
 
-### 🔥 Fire‑Edge — Real‑Time Edge AI Fire Detection
+### 🔥 FIRE-EDGE: Real-Time Firefighting Edge System
 A complete edge AI system for real‑time fire detection optimized for low latency and deployment on embedded devices.
 
 **Key Results**
